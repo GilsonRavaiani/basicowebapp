@@ -1,17 +1,19 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background-color: #f4f4f4;
+    background-color: #0078D7; /* Fundo azul */
+    color: white; /* Ajuste para o texto ficar visível */
     padding: 50px;
 }
 
 button {
     font-size: 16px;
     padding: 10px 20px;
-    background-color: #0078D7;
+    background-color: #314b61;
     color: white;
     border: none;
     cursor: pointer;
+    border-radius: 8px; /* Arredondar o botão */
 }
 
 button:hover {
