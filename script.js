@@ -1,3 +1,3 @@
 function mostrarMensagem() {
-    document.getElementById("mensagem").innerText = "Olá! Seu Web App está funcionando! 070625";
+    document.getElementById("mensagem").innerText = "Olá! Seu Web App está funcionando!";
 }
